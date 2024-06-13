@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Georef</title>
     <link rel="stylesheet" href="./views/style.css">
-    
+    <link rel="manifest" href="./manifest.json">
    
 
 <script type='text/javascript'
