@@ -17,14 +17,14 @@
     },
     "icons": [
         {
-          "src": "/icons/dj.jpg",
+          "src": "/icons/DJ.png",
           "sizes": "512x512",
-          "type": "image/jpg"
+          "type": "image/png"
         },
         {
-          "src": "/icons/dj(1).jpg",
+          "src": "/icons/DJlogo.png",
           "sizes": "192x192",
-          "type": "image/jpg"
+          "type": "image/png"
         }
       ]
     ,
@@ -39,9 +39,9 @@
         "url": "/about",
         "icons": [
           {
-            "src": "/icons/dj.jpg",
+            "src": "/icons/DJ.png",
               "sizes": "192x192",
-              "type": "image/jpg"
+              "type": "image/png"
           }
         ]
       }
